@@ -1,6 +1,5 @@
 # Exercise 6: In Memory API
 
-## Due Date: Friday July 9th 2021, 11:59 PM
 ## Objectives: To become familiar with creating custom endpoints for a REST API, how data is stored and modeled in a REST API,further practice with Javascript Array Methods, and how to properly structure an express API.
 
 ## Specifications/Requirements
